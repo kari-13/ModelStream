@@ -16,7 +16,8 @@ Tired of heavy local web UIs like Open WebUI eating your RAM? Meet **modelstream
 Ensure you have [Ollama](https://ollama.com) running locally, then install the Python dependencies:
 ---------------
 ```bash
-uv sync 
+uv sync
+source .venv/bin/activate
 ```
 --------------------------------------------------
 ```bash
